@@ -49,3 +49,5 @@ Sinta-se à vontade! O código está bem organizado e comentado para facilitar a
 **Com este README, você terá um guia completo e divertido para sua aplicação de busca de atletas!**
 
 **Gostaria de que eu adicione algo mais específico ao README?** Por exemplo, posso explicar como implementar a função de pesquisa ou como utilizar um framework CSS específico.
+
+### **Para testar o código: https://olimpiadas-beta.vercel.app/** 
